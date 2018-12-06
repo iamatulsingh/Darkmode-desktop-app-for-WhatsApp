@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+  <head>
+    <title>WhatsApp</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script type="text/javascript" src='jquery.js'></script>
+    <script type="text/javascript" src='app.js'></script>
+    <script type="text/javascript" src='appState.js'></script>
+  </head>
+  <body>
+    <webview id="app" src="https://web.whatsapp.com" ></webview>
+  </body>
+  <script>
+  	var wv = document.getElementById("app")
+  	wv.addEventListener('loadcommit', function(e) {
+  		wv.insertCSS({file: 'dump.css'})
+  	});
+  </script>
+</html>

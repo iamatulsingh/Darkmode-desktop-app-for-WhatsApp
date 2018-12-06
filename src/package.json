@@ -1,0 +1,16 @@
+{
+  "main": "index.html",
+  "name": "WhatsApp",
+  "version": "1.0.0",
+  "description": "A desktop client for WhatsApp with dark mode",
+  "author": "Atul Singh",
+  "chromium-args": "--disable-devtools",
+  "window": {
+    "show": false,
+    "width": 860,
+    "height": 640,
+    "title": "WhatsApp",
+    "icon": "WhatsApp.png",
+    "toolbar": false
+  }
+}
