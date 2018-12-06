@@ -1,7 +1,7 @@
 # whatsapp-darkmode-dekstop-app-unofficial
 This is an unofficial desktop app for WhatsApp with dark mode only theme.
 
->Thanks "RaitaroH" for your great work for whatsapp dark css https://github.com/RaitaroH
+![dark](https://github.com/iamatulsingh/Darkmode-desktop-app-for-WhatsApp/blob/master/whatsapp-dark-mode.png)
 
 
 ## How to use
@@ -24,3 +24,4 @@ $ gulp build-win32
 $ gulp package-win64
 $ gulp package-win32
 ```
+>Thanks "RaitaroH" for your great work for whatsapp dark css https://github.com/RaitaroH
