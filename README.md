@@ -1,7 +1,7 @@
 # whatsapp-darkmode-dekstop-app-unofficial
 This is an unofficial desktop app for WhatsApp with dark mode only theme.
 
->Thanks "RaitaroH" for your great work of whatsapp dark css https://github.com/RaitaroH
+>Thanks "RaitaroH" for your great work for whatsapp dark css https://github.com/RaitaroH
 
 
 ## How to use
