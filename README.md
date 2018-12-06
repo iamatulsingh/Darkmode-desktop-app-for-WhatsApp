@@ -6,16 +6,13 @@ This is an unofficial desktop app for WhatsApp with dark mode only theme.
 
 ## How to use
 >install gulp globally in node.js
-```$ npm install -g gulp
-```
+```$ npm install -g gulp```
 
 >install dependencies
-```$ npm install
-```
+```$ npm install```
 
 >package installer for MacOs
-```$ gulp package-osx64
-```
+```$ gulp package-osx64```
 
 >Windows build ( Requires wine on OSX/Linux )
 ```$ gulp build-win64
