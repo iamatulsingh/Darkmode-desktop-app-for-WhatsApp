@@ -24,4 +24,4 @@ $ gulp build-win32
 $ gulp package-win64
 $ gulp package-win32
 ```
->Thanks "RaitaroH" for your great work for whatsapp dark css https://github.com/RaitaroH
+
